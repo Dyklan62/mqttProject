@@ -30,9 +30,8 @@ return (
             <>
             <form onSubmit={(e) => handleConnect(e)}>
             <input type="text" placeholder="username" name="username" required="required"/>
-            <input type="submit"></input>
+            <input type="submit"  value="me connecter" />
             </form>
-            <p>{connectStatus}</p>
             </>
         ) : (
             <Chat username={username}/>
