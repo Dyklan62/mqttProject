@@ -3,6 +3,8 @@
 #EN
 A school Mqtt Project about chat with react on front
 
+Deploy on Vercel : https://mqtt-project.vercel.app/
+
 to install 
 clone this repo or download it :
 => git clone https://github.com/Dyklan62/mqttProject.git
@@ -36,6 +38,8 @@ the first page after is the main page . You are autmatically subscribe to "Main"
 #FR
  # mqttProjet
 Un projet scolaire Mqtt sur le chat avec réaction sur le devant
+
+déployer sur Vercel : https://mqtt-project.vercel.app/
 
 à installer
 clonez ce dépôt ou téléchargez-le :
