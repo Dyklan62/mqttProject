@@ -16,8 +16,8 @@ const HomePage = () => {
       const usernameFromForm = e.target.elements.username.value;
       console.log(usernameFromForm);
       const mqttClient = mqtt.connect('wss://a6d1639031f54423beaf0db4a3961767.s2.eu.hivemq.cloud:8884/mqtt', {
-        username: 'Dflinois',
-        password: 'Dflinois',
+        username: 'Dflinois62',
+        password: 'Dflinois62',
         clientId: usernameFromForm,
         protocolVersion: 4,
         connectTimeout: 4000,
